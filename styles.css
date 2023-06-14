@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.maindiv{
+.grid-container{
 	display: grid;
     margin: 20px;
     grid-template-columns: auto auto auto;
